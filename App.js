@@ -73,6 +73,7 @@ const styles = StyleSheet.create({
     
   },
   list:{
+    flex: 1,
     padding:10,
     marginTop:10,
     fontSize:30,
@@ -85,6 +86,7 @@ const styles = StyleSheet.create({
     
   },
   content:{
+    flex: 1,
      
   }
 });
